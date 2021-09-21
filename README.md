@@ -1,13 +1,11 @@
 # Blog
-虽然大大小小的文章写过不少，但其中有很多内容散乱，不够紧凑，排版也不易阅读。
+欢迎关注博客🎉🎉🎉，不定期更新原创技术文章
 
-为保证质量，以下会是精心挑选并修改过的技术文章，不求多而只求精。
+![img](https://img.shields.io/badge/后端-中间件-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-数据库-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-Redis-green.svg)
 
-此外会定期清理与完善博客的内容，欢迎关注。
+![img](https://img.shields.io/badge/架构-分布式-blue.svg) &nbsp; ![img](https://img.shields.io/badge/架构-微服务-blue.svg) &nbsp; 
 
-能力有限，错误的地方烦请指出。
-
-感谢交流与反馈~
+![img](https://img.shields.io/badge/CS-网络协议-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-编译原理-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-操作系统-red.svg)
 
 ## 精选分类
 
