@@ -1,5 +1,5 @@
 # Blog
-欢迎关注博客🎉🎉🎉，不定期更新原创技术文章
+欢迎关注博客🎉🎉🎉，分享原创技术文章
 
 ![img](https://img.shields.io/badge/后端-中间件-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-数据库-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-Redis-green.svg)
 
