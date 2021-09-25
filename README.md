@@ -1,7 +1,7 @@
 # Blog
 欢迎关注博客 🎉🎉🎉 &nbsp; ，分享原创技术文章
 
-![img](https://img.shields.io/badge/后端-中间件-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-数据库-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-Redis-green.svg) &nbsp; ![img](https://img.shields.io/badge/架构-分布式-blue.svg) &nbsp; ![img](https://img.shields.io/badge/架构-微服务-blue.svg) &nbsp; ![img](https://img.shields.io/badge/CS-网络协议-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-编译原理-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-操作系统-red.svg)
+![img](https://img.shields.io/badge/后端-中间件-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-数据库-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-Redis-green.svg) &nbsp; ![img](https://img.shields.io/badge/架构-分布式-blue.svg) &nbsp; ![img](https://img.shields.io/badge/架构-微服务-blue.svg) &nbsp; ![img](https://img.shields.io/badge/CS-网络协议-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-编译原理-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-操作系统-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-算法-red.svg)
 
 ## 一、精选分类
 
