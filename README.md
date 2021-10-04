@@ -14,6 +14,7 @@
 ## 二、文章日志
 
 ### 2021年
+- [词法分析器的介绍与应用场景](https://github.com/WGrape/Blog/issues/10)
 - [图解最长公共子序列算法](https://github.com/WGrape/Blog/issues/9)
 - [PHP源码系列之扩展的原理与开发](https://github.com/WGrape/Blog/issues/7)
 - [Redis源码系列之rename讲解](https://github.com/WGrape/Blog/issues/6)
