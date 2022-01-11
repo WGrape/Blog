@@ -15,6 +15,7 @@
 ## 二、文章日志
 
 ### 2021年
+- [Redis问题排查的常用提效思路](https://github.com/WGrape/Blog/issues/13)
 - [Go常见问题研究之Channel阻塞](https://github.com/WGrape/Blog/issues/12)
 - [parseAOF项目讲解：如何快速解析Redis的AOF文件](https://github.com/WGrape/Blog/issues/11)
 - [词法分析器的介绍与应用场景](https://github.com/WGrape/Blog/issues/10)
