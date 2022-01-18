@@ -15,6 +15,7 @@
 ## 二、文章日志
 
 ### 2021年
+- [Go常见问题之cannot assign to](https://github.com/WGrape/Blog/issues/14)
 - [Redis问题排查的常用提效思路](https://github.com/WGrape/Blog/issues/13)
 - [Go常见问题研究之Channel阻塞](https://github.com/WGrape/Blog/issues/12)
 - [parseAOF项目讲解：如何快速解析Redis的AOF文件](https://github.com/WGrape/Blog/issues/11)
