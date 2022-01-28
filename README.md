@@ -1,5 +1,5 @@
 # Blog
-欢迎关注博客 🎉🎉🎉 &nbsp; ，分享原创技术文章，还有丰富的 [代码Gists](https://gist.github.com/WGrape/c9b644ccc44fe07805b48c856fbb0420) ，相信它们一定会对你有所帮助。如有疑问请查看[博客阅读帮助](https://github.com/WGrape/Blog/issues/21)
+本博客分享原创技术文章、还有丰富的[代码Gists](https://gist.github.com/WGrape/c9b644ccc44fe07805b48c856fbb0420)，相信它们一定会对你有所帮助。如有疑问请查看[博客阅读帮助](https://github.com/WGrape/Blog/issues/21)
 
 <!-- ![img](https://img.shields.io/badge/后端-中间件-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-数据库/Redis-green.svg) &nbsp; ![img](https://img.shields.io/badge/架构-高并发-blue.svg) &nbsp; ![img](https://img.shields.io/badge/架构-分布式/微服务-blue.svg) &nbsp; ![img](https://img.shields.io/badge/CS-网络协议-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-编译原理-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-操作系统-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-数据结构与算法-red.svg) -->
 
