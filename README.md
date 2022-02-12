@@ -17,6 +17,7 @@
 - [经验之谈系列](https://github.com/WGrape/Blog/labels/%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88%E7%B3%BB%E5%88%97)
 - [Redis源码系列](https://github.com/WGrape/Blog/labels/Redis%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%97)
 - [编译器前端系列](https://github.com/WGrape/Blog/labels/%E7%BC%96%E8%AF%91%E5%99%A8%E5%89%8D%E7%AB%AF%E7%B3%BB%E5%88%97)
+- [Go常见问题系列](https://github.com/WGrape/Blog/labels/Go%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%B3%BB%E5%88%97)
 
 ## 二、文章日志
 
