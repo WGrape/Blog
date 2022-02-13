@@ -18,10 +18,12 @@
 - [Redis源码系列](https://github.com/WGrape/Blog/labels/Redis%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%97)
 - [编译器前端系列](https://github.com/WGrape/Blog/labels/%E7%BC%96%E8%AF%91%E5%99%A8%E5%89%8D%E7%AB%AF%E7%B3%BB%E5%88%97)
 - [Go常见问题系列](https://github.com/WGrape/Blog/labels/Go%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%B3%BB%E5%88%97)
+- [Go实现数据结构系列](https://github.com/WGrape/Blog/labels/Go%E5%AE%9E%E7%8E%B0%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%B3%BB%E5%88%97)
 
 ## 二、文章日志
 
 ### 2022年
+- [Go语言实现数据结构系列之优先队列](https://github.com/WGrape/Blog/issues/19)
 - [Go常见问题之map的那些事](https://github.com/WGrape/Blog/issues/37)
 - [Go常见问题之字符串排序](https://github.com/WGrape/Blog/issues/40)
 - [Go常见问题之len和cap的区别](https://github.com/WGrape/Blog/issues/32)
