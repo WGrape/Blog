@@ -23,7 +23,7 @@
 ## 二、文章日志
 
 ### 2022年
-- [如何理解Linux系的/proc目录](https://github.com/WGrape/Blog/issues/48)
+- [如何理解Linux系统的/proc目录](https://github.com/WGrape/Blog/issues/48)
 - [Go语言实现数据结构系列之优先队列](https://github.com/WGrape/Blog/issues/19)
 - [Go常见问题之map的那些事](https://github.com/WGrape/Blog/issues/37)
 - [Go常见问题之字符串排序](https://github.com/WGrape/Blog/issues/40)
