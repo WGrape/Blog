@@ -24,6 +24,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [详解Redis通信协议RESP](https://github.com/WGrape/Blog/issues/27)
 - [图解HTTPS核心原理](https://github.com/WGrape/Blog/issues/34)
 - [编程中常用的二进制技巧](https://github.com/WGrape/Blog/issues/51)
 - [Go实现数据结构与算法之bitmap位图算法](https://github.com/WGrape/Blog/issues/46)
