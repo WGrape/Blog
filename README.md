@@ -10,6 +10,7 @@
 ## 一、精选分类
 
 - [Gists系列](https://github.com/WGrape/Blog/labels/Gists)
+- [Linux系列](https://github.com/WGrape/Blog/labels/Linux)
 - [PHP源码系列](https://github.com/WGrape/Blog/labels/PHP%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%97)
 - [算法讲解系列](https://github.com/WGrape/Blog/labels/%E7%AE%97%E6%B3%95%E8%AE%B2%E8%A7%A3%E7%B3%BB%E5%88%97)
 - [并发处理系列](https://github.com/WGrape/Blog/labels/%E5%B9%B6%E5%8F%91%E5%A4%84%E7%90%86%E7%B3%BB%E5%88%97)
