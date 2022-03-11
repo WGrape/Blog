@@ -27,6 +27,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [缓冲区溢出问题](https://github.com/WGrape/Blog/issues/66)
 - [Mysq幻读问题和间隙锁](https://github.com/WGrape/Blog/issues/62)
 - [MySQL快照读和当前读](https://github.com/WGrape/Blog/issues/61)
 - [如何用两个栈实现队列](https://github.com/WGrape/Blog/issues/55)
