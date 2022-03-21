@@ -27,6 +27,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [MySQL多字段排序问题](https://github.com/WGrape/Blog/issues/82)
 - [Go常见问题之slice实现prepend操作](https://github.com/WGrape/Blog/issues/83)
 - [缓冲区溢出问题](https://github.com/WGrape/Blog/issues/66)
 - [Mysq幻读问题和间隙锁](https://github.com/WGrape/Blog/issues/62)
