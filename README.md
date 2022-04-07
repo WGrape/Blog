@@ -27,6 +27,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [如何在公司获得真正的技术成长](https://github.com/WGrape/Blog/issues/107)
 - [Go常见问题之interface](https://github.com/WGrape/Blog/issues/100)
 - [Go常见问题之nil](https://github.com/WGrape/Blog/issues/99)
 - [Go常见问题之Embedding Struct嵌入结构](https://github.com/WGrape/Blog/issues/93)
