@@ -27,6 +27,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [常用算法模板总结](https://github.com/WGrape/Blog/issues/114)
 - [Go常见问题之heap堆](https://github.com/WGrape/Blog/issues/87)
 - [【算法题】搜索插入位置](https://github.com/WGrape/Blog/issues/115)
 - [如何在公司获得真正的技术成长](https://github.com/WGrape/Blog/issues/107)
