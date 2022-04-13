@@ -27,6 +27,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [Go常见问题之defer](https://github.com/WGrape/Blog/issues/80)
 - [【LeetCode】24. 两两交换链表中的节点](https://github.com/WGrape/Blog/issues/117)
 - [【LeetCode】344. 反转字符串](https://github.com/WGrape/Blog/issues/116)
 - [常用算法模板总结](https://github.com/WGrape/Blog/issues/114)
