@@ -27,6 +27,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [Go常见问题之append的坑](https://github.com/WGrape/Blog/issues/140)
 - [【LeetCode】46. 全排列](https://github.com/WGrape/Blog/issues/139)
 - [哈希表的rehash扩容机制](https://github.com/WGrape/Blog/issues/31)
 - [【LeetCode】33. 搜索旋转排序数组](https://github.com/WGrape/Blog/issues/127)
