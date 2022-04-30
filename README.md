@@ -27,6 +27,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [【算法-全排列改编】输出优先排列](https://github.com/WGrape/Blog/issues/152)
 - [Go实现数据结构与算法之扁平数组转Tree](https://github.com/WGrape/Blog/issues/143)
 - [Go常见问题之append的坑](https://github.com/WGrape/Blog/issues/140)
 - [【LeetCode】46. 全排列](https://github.com/WGrape/Blog/issues/139)
