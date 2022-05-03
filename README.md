@@ -7,6 +7,12 @@
 
 ![img](https://img.shields.io/badge/后端-中间件/数据库/Redis-green.svg) &nbsp; ![img](https://img.shields.io/badge/架构-高并发/分布式/微服务-blue.svg) &nbsp; ![img](https://img.shields.io/badge/CS-网络协议/编译原理/操作系统/计算机基础-yellow.svg) &nbsp; ![img](https://img.shields.io/badge/CS-数据结构与算法-red.svg)
 
+#### 社交账号
+
+| 知乎 | 掘金 |
+| ----------- | ----------- |
+| <a href="https://www.zhihu.com/people/snake-60-75"><img src="https://user-images.githubusercontent.com/35942268/166477110-517f28c1-8edd-4acc-8e2e-8d91af795b97.png"></a> | <a href="https://juejin.cn/user/1434188826023111"><img src="https://user-images.githubusercontent.com/35942268/166477818-361e541e-2770-4bac-86d0-72317982ab55.png"></a> |
+
 ## 一、精选分类
 
 - [Gists系列](https://github.com/WGrape/Blog/labels/Gists)
