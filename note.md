@@ -3,6 +3,8 @@
 ### 2022年
 
 - [Redis问题排查的常用提效思路](https://github.com/WGrape/Blog/issues/13)
+- [编程中常用的二进制技巧](https://github.com/WGrape/Blog/issues/51)
+- [处理问题常用的Linux命令](https://github.com/WGrape/Blog/issues/43)
 - [Go常见问题之append的坑](https://github.com/WGrape/Blog/issues/140)
 - [Go常见问题之Map分段锁](https://github.com/WGrape/Blog/issues/124)
 - [Go常见问题之sync.Map的使用](https://github.com/WGrape/Blog/issues/91)
