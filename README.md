@@ -45,21 +45,8 @@
 ## 二、文章日志
 
 ### 2022年
-
-- [哈希表的rehash扩容机制](https://github.com/WGrape/Blog/issues/31)
-- [MySQL的MVCC机制](https://github.com/WGrape/Blog/issues/125)
-- [如何优化锁](https://github.com/WGrape/Blog/issues/110)
 - [如何在公司获得真正的技术成长](https://github.com/WGrape/Blog/issues/107)
-- [缓冲区溢出问题](https://github.com/WGrape/Blog/issues/66)
-- [Mysq幻读问题和间隙锁](https://github.com/WGrape/Blog/issues/62)
-- [MySQL快照读和当前读](https://github.com/WGrape/Blog/issues/61)
-- [虚拟内存管理方式-段式和段页式](https://github.com/WGrape/Blog/issues/44)
-- [索引失效原则之模型空运最快](https://github.com/WGrape/Blog/issues/56)
-- [深入理解CPU上下文切换](https://github.com/WGrape/Blog/issues/36)
-- [详解Redis通信协议RESP](https://github.com/WGrape/Blog/issues/27)
 - [图解HTTPS核心原理](https://github.com/WGrape/Blog/issues/34)
-- [如何理解Linux系统的/proc目录](https://github.com/WGrape/Blog/issues/48)
-- [漫谈编程之编程规范](https://github.com/WGrape/Blog/issues/25)
 - [什么是Copy-on-write技术](https://github.com/WGrape/Blog/issues/17)
 
 ### 2021年
