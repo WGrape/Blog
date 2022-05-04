@@ -60,8 +60,6 @@
 - [详解Redis通信协议RESP](https://github.com/WGrape/Blog/issues/27)
 - [编写TCP服务器的常见问题和解决方案](https://github.com/WGrape/Blog/issues/26)
 - [图解HTTPS核心原理](https://github.com/WGrape/Blog/issues/34)
-- [编程中常用的二进制技巧](https://github.com/WGrape/Blog/issues/51)
-- [处理问题常用的Linux命令](https://github.com/WGrape/Blog/issues/43)
 - [如何理解Linux系统的/proc目录](https://github.com/WGrape/Blog/issues/48)
 - [漫谈编程之编程规范](https://github.com/WGrape/Blog/issues/25)
 - [什么是Copy-on-write技术](https://github.com/WGrape/Blog/issues/17)
