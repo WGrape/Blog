@@ -50,7 +50,6 @@
 - [MySQL的MVCC机制](https://github.com/WGrape/Blog/issues/125)
 - [如何优化锁](https://github.com/WGrape/Blog/issues/110)
 - [如何在公司获得真正的技术成长](https://github.com/WGrape/Blog/issues/107)
-- [MySQL多字段排序问题](https://github.com/WGrape/Blog/issues/82)
 - [缓冲区溢出问题](https://github.com/WGrape/Blog/issues/66)
 - [Mysq幻读问题和间隙锁](https://github.com/WGrape/Blog/issues/62)
 - [MySQL快照读和当前读](https://github.com/WGrape/Blog/issues/61)
