@@ -3,11 +3,13 @@
 
 <!-- ![img](https://img.shields.io/badge/后端-中间件-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-数据库/Redis-green.svg) &nbsp; ![img](https://img.shields.io/badge/架构-高并发-blue.svg) &nbsp; ![img](https://img.shields.io/badge/架构-分布式/微服务-blue.svg) &nbsp; ![img](https://img.shields.io/badge/CS-网络协议-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-编译原理-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-操作系统-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-数据结构与算法-red.svg) -->
 
-#### 内容类型
+### 内容类型
+本博客包含但不仅限于如下内容
 
 ![img](https://img.shields.io/badge/后端-中间件/数据库/Redis-green.svg) &nbsp; ![img](https://img.shields.io/badge/架构-高并发/分布式/微服务-blue.svg) &nbsp; ![img](https://img.shields.io/badge/CS-网络协议/编译原理/操作系统/计算机基础-yellow.svg) &nbsp; ![img](https://img.shields.io/badge/CS-数据结构与算法-red.svg)
 
-#### 社交账号
+### 社交账号
+本博客会以此GitHub仓库为主要更新阵地，此外也会在以下社交账号上发布相关内容，欢迎关注
   
 | 知乎 | 掘金 | 语雀 | 简书 | CSDN | 今日头条 | 开发者头条 | Segmentfault |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
