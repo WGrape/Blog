@@ -18,6 +18,9 @@
 - [【LeetCode】344. 反转字符串](https://github.com/WGrape/Blog/issues/116)
 - [【算法题】搜索插入位置](https://github.com/WGrape/Blog/issues/115)
 - [常用算法模板总结](https://github.com/WGrape/Blog/issues/114)
+- [如何用两个栈实现队列](https://github.com/WGrape/Blog/issues/55)
+- [最小栈的设计与实现](https://github.com/WGrape/Blog/issues/53)
+- [设计LRU缓存结构](https://github.com/WGrape/Blog/issues/41)
 
 ### 2021年
 - [【排序题】对包含省市区的数组对象，按相同名称排在一起的升序方式，排列整个数组](https://github.com/WGrape/Blog/issues/16)
