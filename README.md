@@ -58,7 +58,6 @@
 - [索引失效原则之模型空运最快](https://github.com/WGrape/Blog/issues/56)
 - [深入理解CPU上下文切换](https://github.com/WGrape/Blog/issues/36)
 - [详解Redis通信协议RESP](https://github.com/WGrape/Blog/issues/27)
-- [编写TCP服务器的常见问题和解决方案](https://github.com/WGrape/Blog/issues/26)
 - [图解HTTPS核心原理](https://github.com/WGrape/Blog/issues/34)
 - [如何理解Linux系统的/proc目录](https://github.com/WGrape/Blog/issues/48)
 - [漫谈编程之编程规范](https://github.com/WGrape/Blog/issues/25)
