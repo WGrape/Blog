@@ -2,6 +2,7 @@
 
 ### 2022年
 
+- [Redis问题排查的常用提效思路](https://github.com/WGrape/Blog/issues/13)
 - [Go常见问题之append的坑](https://github.com/WGrape/Blog/issues/140)
 - [Go常见问题之Map分段锁](https://github.com/WGrape/Blog/issues/124)
 - [Go常见问题之sync.Map的使用](https://github.com/WGrape/Blog/issues/91)
