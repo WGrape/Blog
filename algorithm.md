@@ -11,6 +11,7 @@
 - [【LeetCode】141. 环形链表](https://github.com/WGrape/Blog/issues/142)
 - [【算法-全排列改编】输出优先排列](https://github.com/WGrape/Blog/issues/152)
 - [Go实现数据结构与算法之扁平数组转Tree](https://github.com/WGrape/Blog/issues/143)
+- [【业务题】如何实现用户访问到1~N循环往复的数据](https://github.com/WGrape/Blog/issues/54)
 - [【LeetCode】46. 全排列](https://github.com/WGrape/Blog/issues/139)
 - [【LeetCode】33. 搜索旋转排序数组](https://github.com/WGrape/Blog/issues/127)
 - [【LeetCode】513. 找树左下角的值](https://github.com/WGrape/Blog/issues/121)
