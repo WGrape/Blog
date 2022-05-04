@@ -56,7 +56,6 @@
 - [MySQL快照读和当前读](https://github.com/WGrape/Blog/issues/61)
 - [虚拟内存管理方式-段式和段页式](https://github.com/WGrape/Blog/issues/44)
 - [索引失效原则之模型空运最快](https://github.com/WGrape/Blog/issues/56)
-- [【业务题】如何实现用户访问到1~N循环往复的数据](https://github.com/WGrape/Blog/issues/54)
 - [深入理解CPU上下文切换](https://github.com/WGrape/Blog/issues/36)
 - [详解Redis通信协议RESP](https://github.com/WGrape/Blog/issues/27)
 - [编写TCP服务器的常见问题和解决方案](https://github.com/WGrape/Blog/issues/26)
