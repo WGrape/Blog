@@ -1,5 +1,19 @@
 ## 日常踩坑小记
 
+### 待精简完善的博客
+- [哈希表的rehash扩容机制](https://github.com/WGrape/Blog/issues/31)
+- [MySQL的MVCC机制](https://github.com/WGrape/Blog/issues/125)
+- [如何优化锁](https://github.com/WGrape/Blog/issues/110)
+- [缓冲区溢出问题](https://github.com/WGrape/Blog/issues/66)
+- [Mysq幻读问题和间隙锁](https://github.com/WGrape/Blog/issues/62)
+- [MySQL快照读和当前读](https://github.com/WGrape/Blog/issues/61)
+- [虚拟内存管理方式-段式和段页式](https://github.com/WGrape/Blog/issues/44)
+- [索引失效原则之模型空运最快](https://github.com/WGrape/Blog/issues/56)
+- [深入理解CPU上下文切换](https://github.com/WGrape/Blog/issues/36)
+- [详解Redis通信协议RESP](https://github.com/WGrape/Blog/issues/27)
+- [如何理解Linux系统的/proc目录](https://github.com/WGrape/Blog/issues/48)
+- [漫谈编程之编程规范](https://github.com/WGrape/Blog/issues/25)
+
 ### 2022年
 
 - [Redis问题排查的常用提效思路](https://github.com/WGrape/Blog/issues/13)
