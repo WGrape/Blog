@@ -64,7 +64,6 @@
 - [什么是Copy-on-write技术](https://github.com/WGrape/Blog/issues/17)
 
 ### 2021年
-- [Redis问题排查的常用提效思路](https://github.com/WGrape/Blog/issues/13)
 - [parseAOF项目讲解：如何快速解析Redis的AOF文件](https://github.com/WGrape/Blog/issues/11)
 - [词法分析器的介绍与应用场景](https://github.com/WGrape/Blog/issues/10)
 - [图解最长公共子序列算法](https://github.com/WGrape/Blog/issues/9)
