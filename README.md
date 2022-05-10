@@ -45,6 +45,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [《从实践中探究Redis原理》之Set一定是无序的吗（上）](https://github.com/WGrape/Blog/issues/167)
 - [如何在公司获得真正的技术成长](https://github.com/WGrape/Blog/issues/107)
 - [图解HTTPS核心原理](https://github.com/WGrape/Blog/issues/34)
 - [什么是Copy-on-write技术](https://github.com/WGrape/Blog/issues/17)
