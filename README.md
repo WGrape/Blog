@@ -53,11 +53,11 @@
 
 ### 2021年
 - [parseAOF项目讲解之如何快速解析Redis的AOF文件](https://github.com/WGrape/Blog/issues/11)
-- [编译器前端之初探词法分析器](https://github.com/WGrape/Blog/issues/10)
 - [图解最长公共子序列算法](https://github.com/WGrape/Blog/issues/9)
 - [PHP源码系列之扩展的原理与开发](https://github.com/WGrape/Blog/issues/7)
 - [Redis源码系列之rename讲解](https://github.com/WGrape/Blog/issues/6)
 - [编译器前端之如何实现一个基于DFA的词法分析器](https://github.com/WGrape/Blog/issues/3)
+- [编译器前端之初探词法分析器](https://github.com/WGrape/Blog/issues/10)
 - [浅谈Go语言的并发控制](https://github.com/WGrape/Blog/issues/4)
 
 ### 2020年
