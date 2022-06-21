@@ -16,6 +16,7 @@
 
 ### 2022年
 
+- [Go常见问题之错误（error）和异常（panic）处理](https://github.com/WGrape/Blog/issues/79)
 - [Go常见问题之什么是CGO](https://github.com/WGrape/Blog/issues/201)
 - [Go常见问题之golang多版本](https://github.com/WGrape/Blog/issues/195)
 - [Redis问题排查的常用提效思路](https://github.com/WGrape/Blog/issues/13)
