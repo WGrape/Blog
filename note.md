@@ -16,6 +16,7 @@
 
 ### 2022年
 
+- [Go常见问题之在Http接口中异步处理](https://github.com/WGrape/Blog/issues/203)
 - [Go常见问题之项目规范](https://github.com/WGrape/Blog/issues/174)
 - [Go常见问题之错误（error）和异常（panic）处理](https://github.com/WGrape/Blog/issues/79)
 - [Go常见问题之什么是CGO](https://github.com/WGrape/Blog/issues/201)
