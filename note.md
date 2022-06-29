@@ -16,6 +16,7 @@
 
 ### 2022年
 
+- [Go常见问题之测试那些事](https://github.com/WGrape/Blog/issues/24)
 - [Iterm2安装配置问题汇总](https://github.com/WGrape/Blog/issues/196)
 - [Go常见问题之在Http接口中异步处理](https://github.com/WGrape/Blog/issues/203)
 - [Go常见问题之项目规范](https://github.com/WGrape/Blog/issues/174)
