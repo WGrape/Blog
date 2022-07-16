@@ -66,6 +66,7 @@
 - [谈垃圾回收机制](https://github.com/WGrape/Blog/issues/1)
 - [设计与实现基于Kibana Wathcer的服务分级报警平台](https://github.com/WGrape/Blog/issues/220)
 - [开发环境数据治理方案](https://github.com/WGrape/Blog/issues/221)
+- [实现Jenkins Event分析系统](https://github.com/WGrape/Blog/issues/222)
 
 ### 2019年
 - [欧几里得算法程序是如何控制电路工作的](https://github.com/WGrape/Blog/issues/5)
