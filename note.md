@@ -56,3 +56,4 @@
 ### 2021年
 - [Go常见问题之cannot assign to](https://github.com/WGrape/Blog/issues/14)
 - [Go常见问题研究之Channel阻塞](https://github.com/WGrape/Blog/issues/12)
+- [执行brew install报No similarly named formulae found错误的解决方案](https://github.com/WGrape/Blog/issues/178)
