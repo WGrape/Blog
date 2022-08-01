@@ -75,4 +75,4 @@
 
 ### 2019年
 - [欧几里得算法程序是如何控制电路工作的](https://github.com/WGrape/Blog/issues/5)
-- [CGI之HTTP服务器原理](https://github.com/WGrape/Blog/issues/234)
+- [HTTP服务器原理之CGI协议](https://github.com/WGrape/Blog/issues/234)
