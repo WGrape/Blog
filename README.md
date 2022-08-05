@@ -45,7 +45,6 @@
 ## 二、文章日志
 
 ### 2022年
-- [基于NSQ的PHP消息队列架构和原理](https://github.com/WGrape/Blog/issues/242)
 - [关于接口文档高效治理方案的研究和思考](https://github.com/WGrape/Blog/issues/229)
 - [一文帮你解决单元测试中的所有疑问](https://github.com/WGrape/Blog/issues/207)
 - [《从实践中探究Redis原理》之Set一定是无序的吗（下）](https://github.com/WGrape/Blog/issues/182)
@@ -55,6 +54,7 @@
 - [用最简单的方式带你走进写时复制技术](https://github.com/WGrape/Blog/issues/17)
 
 ### 2021年
+- [基于NSQ的PHP消息队列架构和原理](https://github.com/WGrape/Blog/issues/242)
 - [记一次对Redis的rename命令重写的尝试](https://github.com/WGrape/Blog/issues/243)
 - [深入研究bigkey问题与解决方案](https://github.com/WGrape/Blog/issues/225)
 - [一次大Key过期导致线上Redis延迟的案例总结](https://github.com/WGrape/Blog/issues/226)
