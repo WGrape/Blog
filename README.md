@@ -57,6 +57,7 @@
 - [用最简单的方式带你走进写时复制技术](https://github.com/WGrape/Blog/issues/17)
 
 ### 2021年
+- [记一次对Redis的rename命令重写的尝试](https://github.com/WGrape/Blog/issues/243)
 - [深入研究bigkey问题与解决方案](https://github.com/WGrape/Blog/issues/225)
 - [一次大Key过期导致线上Redis延迟的案例总结](https://github.com/WGrape/Blog/issues/226)
 - [parseAOF项目讲解之如何快速解析Redis的AOF文件](https://github.com/WGrape/Blog/issues/11)
