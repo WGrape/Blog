@@ -45,6 +45,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [为什么32位处理器的最大内存是4G](https://github.com/WGrape/Blog/issues/247)
 - [关于接口文档高效治理方案的研究和思考](https://github.com/WGrape/Blog/issues/229)
 - [一文帮你解决单元测试中的所有疑问](https://github.com/WGrape/Blog/issues/207)
 - [《从实践中探究Redis原理》之Set一定是无序的吗（下）](https://github.com/WGrape/Blog/issues/182)
