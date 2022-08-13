@@ -16,6 +16,8 @@
 
 ### 2022年
 
+- [Vim高效帮助](https://github.com/WGrape/Blog/issues/253)
+- [Mac高效帮助](https://github.com/WGrape/Blog/issues/178)
 - [Go常见问题之测试那些事](https://github.com/WGrape/Blog/issues/24)
 - [Go常见问题之代码检查](https://github.com/WGrape/Blog/issues/211)
 - [Iterm2安装配置问题汇总](https://github.com/WGrape/Blog/issues/196)
