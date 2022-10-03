@@ -45,6 +45,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [CPU原理之常用的寄存器](https://github.com/WGrape/Blog/issues/268)
 - [CPU原理之指令映射到电路](https://github.com/WGrape/Blog/issues/267)
 - [CPU原理之指令重排与内存屏障](https://github.com/WGrape/Blog/issues/266)
 - [分表下的分页查询方案的设计与实现](https://github.com/WGrape/Blog/issues/248)
