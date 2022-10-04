@@ -45,6 +45,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [CPU原理之指令周期](https://github.com/WGrape/Blog/issues/269)
 - [CPU原理之常用的寄存器](https://github.com/WGrape/Blog/issues/268)
 - [CPU原理之指令映射到电路](https://github.com/WGrape/Blog/issues/267)
 - [CPU原理之指令重排与内存屏障](https://github.com/WGrape/Blog/issues/266)
