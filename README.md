@@ -45,6 +45,7 @@
 ## 二、文章日志
 
 ### 2022年
+- [《从实践中探究Redis原理》之String是字符数组吗（上）](https://github.com/WGrape/Blog/issues/271)
 - [CPU原理之指令周期](https://github.com/WGrape/Blog/issues/269)
 - [CPU原理之指令集架构](https://github.com/WGrape/Blog/issues/270)
 - [CPU原理之常用的寄存器](https://github.com/WGrape/Blog/issues/268)
