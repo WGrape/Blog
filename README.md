@@ -84,7 +84,7 @@
 ### 2020年
 - [实现PHP代码执行的记录与分析](https://github.com/WGrape/Blog/issues/2)
 - [谈垃圾回收机制](https://github.com/WGrape/Blog/issues/1)
-- [设计与实现基于Kibana Wathcer的服务分级报警平台](https://github.com/WGrape/Blog/issues/220)
+- [设计与实现基于Kibana Watcher的服务分级报警平台](https://github.com/WGrape/Blog/issues/220)
 - [开发环境数据治理方案](https://github.com/WGrape/Blog/issues/221)
 - [实现Jenkins Event分析系统](https://github.com/WGrape/Blog/issues/222)
 - [基于Go语言的消费程序设计与实现](https://github.com/WGrape/Blog/issues/224)
