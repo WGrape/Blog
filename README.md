@@ -48,6 +48,9 @@
 
 ## 二、文章日志
 
+### 2023年
+- [Redis的定期删除与主线程读写有并发问题吗](https://github.com/WGrape/Blog/issues/273)
+
 ### 2022年
 - [《从实践中探究Redis原理》之String是字符数组吗（上）](https://github.com/WGrape/Blog/issues/271)
 - [CPU原理之指令周期](https://github.com/WGrape/Blog/issues/269)
