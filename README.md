@@ -48,6 +48,9 @@
 
 ## 二、文章日志
 
+### 2024年
+- [深入浅出LLM大语言模型](https://github.com/WGrape/Blog/issues/274)
+
 ### 2023年
 - [Redis的定期删除与主线程读写有并发问题吗](https://github.com/WGrape/Blog/issues/273)
 
