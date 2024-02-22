@@ -49,6 +49,8 @@
 ## 二、文章日志
 
 ### 2024年
+- [最全面又最浅显易懂的Langchain快速上手教程（下）](https://github.com/WGrape/Blog/issues/276)
+- [最全面又最浅显易懂的Langchain快速上手教程（上）](https://github.com/WGrape/Blog/issues/275)
 - [深入浅出LLM大语言模型](https://github.com/WGrape/Blog/issues/274)
 
 ### 2023年
