@@ -52,6 +52,8 @@
 ## 二、文章日志
 
 ### 2024年
+- [LangChain接口快速参考和实用案例大全](https://github.com/WGrape/Blog/issues/278)
+- [LangChain与同类LLMDevops产品在不同维度的全面对比](https://github.com/WGrape/Blog/issues/277)
 - [最全面又最浅显易懂的Langchain快速上手教程（下）](https://github.com/WGrape/Blog/issues/276)
 - [最全面又最浅显易懂的Langchain快速上手教程（上）](https://github.com/WGrape/Blog/issues/275)
 - [深入浅出LLM大语言模型](https://github.com/WGrape/Blog/issues/274)
