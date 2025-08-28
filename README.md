@@ -1,5 +1,5 @@
 # Blog
-本博客分享开源项目、服务架构、中间件和人工智能等计算机领域的原创技术文章，还有丰富的[代码Gists](https://gist.github.com/WGrape/c9b644ccc44fe07805b48c856fbb0420)、[算法天天练](./algorithm.md)，相信它们一定会对你有所帮助。
+本博客分享AI工程、后端工程、中间件和架构等计算机领域的原创技术文章，还有丰富的[代码Gists](https://gist.github.com/WGrape/c9b644ccc44fe07805b48c856fbb0420)、[算法天天练](./algorithm.md)，相信它们一定会对你有所帮助。
 
 <!-- ![img](https://img.shields.io/badge/后端-中间件-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-数据库/Redis-green.svg) &nbsp; ![img](https://img.shields.io/badge/架构-高并发-blue.svg) &nbsp; ![img](https://img.shields.io/badge/架构-分布式/微服务-blue.svg) &nbsp; ![img](https://img.shields.io/badge/CS-网络协议-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-编译原理-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-操作系统-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-数据结构与算法-red.svg) -->
 
@@ -20,7 +20,7 @@
 
 | 知乎 | 掘金 | CSDN | 今日头条 | 开发者头条 |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| <a href="https://www.zhihu.com/people/snake-60-75"><img src="https://user-images.githubusercontent.com/35942268/166477110-517f28c1-8edd-4acc-8e2e-8d91af795b97.png"></a> | <a href="https://juejin.cn/user/1434188826023111"><img src="https://user-images.githubusercontent.com/35942268/166477818-361e541e-2770-4bac-86d0-72317982ab55.png"></a> | <a href="https://blog.csdn.net/acsdner"><img width="90px" src="https://user-images.githubusercontent.com/35942268/166479621-f895b788-0eca-4252-b64c-528d43d06237.png"></a> | <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAwzQSE7rXszDBlEbQ9cKj3jsZS9xTYxJjFur9oRiQIPI"><img width="72px" src="https://user-images.githubusercontent.com/35942268/166480440-3bb093d1-e3d3-44f1-99c7-d0ed9ebfb5c3.png"></a> | <a href="https://toutiao.io/u/589210"><img width="110" alt="image" src="https://user-images.githubusercontent.com/35942268/166482678-8a71d5f3-e53f-4e2e-bca0-0961bebe6c9a.png"></a> |
+|  |  | > |  |  |
 
 ## 一、精选分类
 
