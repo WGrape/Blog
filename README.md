@@ -1,53 +1,15 @@
 # Blog
 本博客分享AI工程、后端工程、中间件和架构等计算机领域的原创技术文章，还有丰富的[代码Gists](https://gist.github.com/WGrape/c9b644ccc44fe07805b48c856fbb0420)、[算法天天练](./algorithm.md)，相信它们一定会对你有所帮助。
 
-<!-- ![img](https://img.shields.io/badge/后端-中间件-green.svg) &nbsp; ![img](https://img.shields.io/badge/后端-数据库/Redis-green.svg) &nbsp; ![img](https://img.shields.io/badge/架构-高并发-blue.svg) &nbsp; ![img](https://img.shields.io/badge/架构-分布式/微服务-blue.svg) &nbsp; ![img](https://img.shields.io/badge/CS-网络协议-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-编译原理-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-操作系统-red.svg) &nbsp; ![img](https://img.shields.io/badge/CS-数据结构与算法-red.svg) -->
-
-### 内容类型
-本博客包含但不仅限于如下内容
-
-![img](https://img.shields.io/badge/后端-中间件/数据库/Redis-green.svg) &nbsp; ![img](https://img.shields.io/badge/架构-高并发/分布式/微服务-blue.svg) &nbsp; ![img](https://img.shields.io/badge/CS-网络协议/编译原理/操作系统/计算机基础-yellow.svg) &nbsp; ![img](https://img.shields.io/badge/CS-数据结构与算法-red.svg)
-
-### 平台发布
+## 一、平台发布
 
 > 只有本博客中的文章会永久保持最新的更新状态，其他的平台不保证最新 ！所以最好关注本项目 ！
 
 本博客会以 [此GitHub仓库](https://github.com/WGrape/Blog) 和 [wgrape.github.io](https://wgrape.github.io/) 网站为主要创作阵地，此外也会在以下平台上发布相关内容，欢迎关注各平台账号
   
-<!-- | 知乎 | 掘金 | 语雀 | 简书 | CSDN | 今日头条 | 开发者头条 | Segmentfault |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-|  |  |  |  |  | ercontent.com/35942268/166480440-3bb093d1-e3d3-44f1-99c7-d0ed9ebfb5c3.png"> |  |  | -->
-
 | 知乎 | 掘金 | CSDN | 今日头条 | 开发者头条 |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-|  |  | > |  |  |
-
-## 一、精选分类
-
-| [Gists系列](https://github.com/WGrape/Blog/labels/Gists) | [Linux系列](https://github.com/WGrape/Blog/labels/Linux) | [数据库系列](https://github.com/WGrape/Blog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E5%88%97) | [PHP源码系列](https://github.com/WGrape/Blog/labels/PHP%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%97) | [算法讲解系列](https://github.com/WGrape/Blog/labels/%E7%AE%97%E6%B3%95%E8%AE%B2%E8%A7%A3%E7%B3%BB%E5%88%97) | [并发处理系列](https://github.com/WGrape/Blog/labels/%E5%B9%B6%E5%8F%91%E5%A4%84%E7%90%86%E7%B3%BB%E5%88%97) |
-| --- | --- | --- | --- | --- | --- |
-| [底层研究系列](https://github.com/WGrape/Blog/labels/%E5%BA%95%E5%B1%82%E7%A0%94%E7%A9%B6%E7%B3%BB%E5%88%97) | [经验之谈系列](https://github.com/WGrape/Blog/labels/%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88%E7%B3%BB%E5%88%97) | [操作系统系列](https://github.com/WGrape/Blog/labels/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%B3%BB%E5%88%97) | [Redis源码系列](https://github.com/WGrape/Blog/labels/Redis%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%97) | [编译器前端系列](https://github.com/WGrape/Blog/labels/%E7%BC%96%E8%AF%91%E5%99%A8%E5%89%8D%E7%AB%AF%E7%B3%BB%E5%88%97) | [计算机网络系列](https://github.com/WGrape/Blog/labels/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
-| [Go常见问题系列](https://github.com/WGrape/Blog/labels/Go%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%B3%BB%E5%88%97) | [Go实现数据结构与算法](https://github.com/WGrape/Blog/labels/Go%E5%AE%9E%E7%8E%B0%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%B3%BB%E5%88%97) | | | | |
-
-
-<!--
-- [Gists系列](https://github.com/WGrape/Blog/labels/Gists)
-- [Linux系列](https://github.com/WGrape/Blog/labels/Linux)
-- [数据库系列](https://github.com/WGrape/Blog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E5%88%97)
-- [PHP源码系列](https://github.com/WGrape/Blog/labels/PHP%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%97)
-- [算法讲解系列](https://github.com/WGrape/Blog/labels/%E7%AE%97%E6%B3%95%E8%AE%B2%E8%A7%A3%E7%B3%BB%E5%88%97)
-- [并发处理系列](https://github.com/WGrape/Blog/labels/%E5%B9%B6%E5%8F%91%E5%A4%84%E7%90%86%E7%B3%BB%E5%88%97)
-
-- [底层研究系列](https://github.com/WGrape/Blog/labels/%E5%BA%95%E5%B1%82%E7%A0%94%E7%A9%B6%E7%B3%BB%E5%88%97)
-- [经验之谈系列](https://github.com/WGrape/Blog/labels/%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88%E7%B3%BB%E5%88%97)
-- [操作系统系列](https://github.com/WGrape/Blog/labels/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%B3%BB%E5%88%97)
-- [Redis源码系列](https://github.com/WGrape/Blog/labels/Redis%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%97)
-- [编译器前端系列](https://github.com/WGrape/Blog/labels/%E7%BC%96%E8%AF%91%E5%99%A8%E5%89%8D%E7%AB%AF%E7%B3%BB%E5%88%97)
-- [计算机网络系列](https://github.com/WGrape/Blog/labels/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
-
-- [Go常见问题系列](https://github.com/WGrape/Blog/labels/Go%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%B3%BB%E5%88%97)
-- [Go实现数据结构与算法](https://github.com/WGrape/Blog/labels/Go%E5%AE%9E%E7%8E%B0%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%B3%BB%E5%88%97)
--->
+| <a href="https://www.zhihu.com/people/snake-60-75"><img src="https://user-images.githubusercontent.com/35942268/166477110-517f28c1-8edd-4acc-8e2e-8d91af795b97.png"></a> | <a href="https://juejin.cn/user/1434188826023111"><img src="https://user-images.githubusercontent.com/35942268/166477818-361e541e-2770-4bac-86d0-72317982ab55.png"></a> | <a href="https://blog.csdn.net/acsdner"><img width="90px" src="https://user-images.githubusercontent.com/35942268/166479621-f895b788-0eca-4252-b64c-528d43d06237.png"></a> | <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAwzQSE7rXszDBlEbQ9cKj3jsZS9xTYxJjFur9oRiQIPI"><img width="72px" src="https://user-images.githubusercontent.com/35942268/166480440-3bb093d1-e3d3-44f1-99c7-d0ed9ebfb5c3.png"></a> | <a href="https://toutiao.io/u/589210"><img width="110" alt="image" src="https://user-images.githubusercontent.com/35942268/166482678-8a71d5f3-e53f-4e2e-bca0-0961bebe6c9a.png"></a> |
 
 ## 二、文章日志
 
