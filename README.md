@@ -14,6 +14,7 @@
 ## 二、文章日志
 
 ### 2025年
+- [一文掌握大模型应用的耗时优化方案](https://github.com/WGrape/Blog/issues/283)
 - [AI搜索的未来：信息获取的下一个范式](https://github.com/WGrape/Blog/issues/282)
 
 ### 2024年
