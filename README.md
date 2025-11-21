@@ -15,7 +15,7 @@
 
 ### 2025年
 - [详解AI搜索关键技术之意图分析](https://github.com/WGrape/Blog/issues/287)
-- [常见AI搜索方案的代码实现](https://github.com/WGrape/Blog/issues/285)
+- [一文了解常见AI搜索方案的代码实现](https://github.com/WGrape/Blog/issues/285)
 - [一文掌握大模型应用的耗时优化方案（完整版）](https://github.com/WGrape/Blog/issues/284)
 - [一文掌握大模型应用的耗时优化方案（精简版）](https://github.com/WGrape/Blog/issues/283)
 - [AI搜索的未来：信息获取的下一个范式](https://github.com/WGrape/Blog/issues/282)
