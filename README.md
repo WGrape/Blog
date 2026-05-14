@@ -13,6 +13,9 @@
 
 ## 二、文章日志
 
+### 2026年
+- [产品经理的Vibe Coding实战指南](https://github.com/WGrape/Blog/issues/288)
+
 ### 2025年
 - [详解AI搜索关键技术之意图分析](https://github.com/WGrape/Blog/issues/287)
 - [一文了解常见AI搜索方案的代码实现](https://github.com/WGrape/Blog/issues/285)
