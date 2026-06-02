@@ -18,6 +18,7 @@
 ## 二、文章日志
 
 ### 2026年
+- [手写Redis事件循环器AE：原理与实现](https://github.com/WGrape/Blog/issues/289)
 - [产品经理的Vibe Coding实战指南](https://github.com/WGrape/Blog/issues/288)
 
 ### 2025年
